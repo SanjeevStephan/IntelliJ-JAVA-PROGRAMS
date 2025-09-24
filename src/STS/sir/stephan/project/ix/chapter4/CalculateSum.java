@@ -4,7 +4,7 @@
     Program Description : A Program in Java to find the sum of two numbers.
     Note : below method is executed from public static void main(String[] args){..} method only
  */
-package Student.stephan.project.ix.chapter4;
+package STS.sir.stephan.project.ix.chapter4;
 
 import java.util.Scanner;
 

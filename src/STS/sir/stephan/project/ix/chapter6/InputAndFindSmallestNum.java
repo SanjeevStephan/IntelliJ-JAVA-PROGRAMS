@@ -6,7 +6,7 @@
     Note : below method is executed from public static void main(String[] args){..} method only
     Hint : Use Math.min(int num1, int num2);
  */
-package Student.stephan.project.ix.chapter6;
+package STS.sir.stephan.project.ix.chapter6;
 
 import java.util.Scanner;
 public class InputAndFindSmallestNum {

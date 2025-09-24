@@ -5,7 +5,7 @@
     Program Description : A Program to Calculate Discounts
     Note : below method is executed from public static void main(String[] args){..} method only
  */
-package Student.stephan.project.ix.chapter4;
+package STS.sir.stephan.project.ix.chapter4;
 
 public class CalculateDiscount {
     public static void calculateDiscount() {

@@ -2,12 +2,12 @@
     Program No : 13
     Date :
     Program Title : GradeTheStudent
-    Program Description : Program to Input Marks in Physics, Chemistry and Biology and name of Student.
+    Program Description : Program to Input Marks in Physics, Chemistry and Biology and name of STS.sir.stephan.Student.
                           Give Grades accordingly.
     Note : below method is executed from public static void main(String[] args){..} method only
  */
 
-package Student.stephan.project.ix.chapter7;
+package STS.sir.stephan.project.ix.chapter7;
 
 import java.util.Scanner;
 
@@ -45,7 +45,7 @@ public class GradeTheStudent {
         String grade = decideGrades(average);
 
         Scanner scanner = new Scanner(System.in);
-        System.out.print("Enter Student Name : ");
+        System.out.print("Enter STS.sir.stephan.Student Name : ");
         String name = scanner.nextLine();
         System.out.println("------------------------");
         System.out.println("Name : " + name);

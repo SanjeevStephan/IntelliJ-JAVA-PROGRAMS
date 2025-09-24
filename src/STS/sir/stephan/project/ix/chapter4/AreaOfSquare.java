@@ -5,7 +5,7 @@
     Program Description : A Program in Java to find the Area, Perimeter and Diagonal of a Square.
     Note : below method is executed from public static void main(String[] args){..} method only
  */
-package Student.stephan.project.ix.chapter4;
+package STS.sir.stephan.project.ix.chapter4;
 
 public class AreaOfSquare {
 

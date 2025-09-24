@@ -2,10 +2,10 @@
     Program No : 01
     Program Title : StudentBioData
     Program Description : Program in Java to assign and display Name, Class, Rollno, Subject, School and
-    City of a Student.
+    City of a STS.sir.stephan.Student.
     Note : below method is executed from public static void main(String[] args){..} method only
  */
-package Student.stephan.project.ix.chapter4;
+package STS.sir.stephan.project.ix.chapter4;
 
 public class StudentBioData {
     public static void displayStudentBioData(String name) {
@@ -16,7 +16,7 @@ public class StudentBioData {
         String subject = "Computer Applications";
         String school = "St.Thomas School, Agiamore";
         String city = "Godda";
-        // Print the Student Data
+        // Print the STS.sir.stephan.Student Data
         System.out.println("Name : " + name);
         System.out.println("Class : " + std);
         System.out.println("Roll No : " + rollno);

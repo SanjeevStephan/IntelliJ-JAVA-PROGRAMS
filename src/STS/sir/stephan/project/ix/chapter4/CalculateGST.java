@@ -8,7 +8,7 @@
     GST Amount = (Original Price x GST Rate) / 100
     Final Price = Original Price + GST Amount
  */
-package Student.stephan.project.ix.chapter4;
+package STS.sir.stephan.project.ix.chapter4;
 
 public class CalculateGST {
     public static void calculateGST( int originalPrice) {

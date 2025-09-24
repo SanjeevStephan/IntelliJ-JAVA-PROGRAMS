@@ -7,7 +7,7 @@
 
     Note : below method is executed from public static void main(String[] args){..} method only
  */
-package Student.stephan.project.ix.chapter7;
+package STS.sir.stephan.project.ix.chapter7;
 
 import java.util.Scanner;
 

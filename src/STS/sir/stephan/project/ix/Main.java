@@ -4,11 +4,17 @@
     Description :  This is the entry point of a Java program.
                    When you run a Java application, execution starts from this method.
  */
-package Student.stephan.project.ix;
+package STS.sir.stephan.project.ix;
 
-import Student.stephan.project.ix.chapter4.*;
-import Student.stephan.project.ix.chapter6.*;
-import Student.stephan.project.ix.chapter7.*;
+import STS.sir.stephan.project.ix.chapter4.*;
+import STS.sir.stephan.project.ix.chapter6.*;
+import STS.sir.stephan.project.ix.chapter7.ElectricityBill;
+import STS.sir.stephan.project.ix.chapter7.GradeTheStudent;
+import STS.sir.stephan.project.ix.chapter7.RectangleMenu;
+import STS.sir.stephan.project.ix.chapter7.SecondSmallestNum;
+import STS.sir.stephan.project.ix.chapter4.*;
+import STS.sir.stephan.project.ix.chapter6.*;
+import STS.sir.stephan.project.ix.chapter7.*;
 
 public class Main 
 {
@@ -26,7 +32,7 @@ public class Main
     
         public static void main(String[] args) 
         {
-            System.out.println("---[ 01. Student Bio-Data ]---");
+            System.out.println("---[ 01. STS.sir.stephan.Student Bio-Data ]---");
             StudentBioData.displayStudentBioData("Sanjeev Stephan"); // Write your own name here
     
             System.out.println("---[ 02. Add Two Numbers ]---");
@@ -62,7 +68,7 @@ public class Main
             System.out.println("---[ 12. Display Second Smallest Number ]---");
             SecondSmallestNum.find2ndSmallestNum();
     
-            System.out.println("---[ 13. Display Student Grades ]---");
+            System.out.println("---[ 13. Display STS.sir.stephan.Student Grades ]---");
             GradeTheStudent.displayGrades();
     
             System.out.println("---[ 14. Calculate Rectangle ]---");

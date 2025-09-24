@@ -5,7 +5,7 @@
     Program Description : A Program to find diagonal of a square
     Note : below method is executed from public static void main(String[] args){..} method only
  */
-package Student.stephan.project.ix.chapter6;
+package STS.sir.stephan.project.ix.chapter6;
 
 import java.util.Scanner;
 

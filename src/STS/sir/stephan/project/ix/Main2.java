@@ -4,31 +4,31 @@
     Description :  This is the entry point of a Java program.
                    When you run a Java application, execution starts from this method.
  */
-package Student.stephan.project.ix;
-// Java Classes from the package : Student.stephan.project.ix.chapter4
-import Student.stephan.project.ix.chapter4.StudentBioData;
-import Student.stephan.project.ix.chapter4.CalculateSum;
-import Student.stephan.project.ix.chapter4.AreaOfSquare;
-import Student.stephan.project.ix.chapter4.CalculateGST;
-import Student.stephan.project.ix.chapter4.CalculateDiscount;
-// Java Classes from the package : Student.stephan.project.ix.chapter6
-import Student.stephan.project.ix.chapter6.FindDiagonalOfSq;
-import Student.stephan.project.ix.chapter6.FindSmallestNum;
-import Student.stephan.project.ix.chapter6.InputAndFindSmallestNum;
-import Student.stephan.project.ix.chapter6.FindCube;
-import Student.stephan.project.ix.chapter6.FindValueOfExpression;
-import Student.stephan.project.ix.chapter6.FindVelocity;
-// Java Classes from the package : Student.stephan.project.ix.chapter7
-import Student.stephan.project.ix.chapter7.SecondSmallestNum;
-import Student.stephan.project.ix.chapter7.GradeTheStudent;
-import Student.stephan.project.ix.chapter7.RectangleMenu;
-import Student.stephan.project.ix.chapter7.ElectricityBill;
+package STS.sir.stephan.project.ix;
+// Java Classes from the package : STS.sir.stephan.project.ix.chapter4
+import STS.sir.stephan.project.ix.chapter4.StudentBioData;
+import STS.sir.stephan.project.ix.chapter4.CalculateSum;
+import STS.sir.stephan.project.ix.chapter4.AreaOfSquare;
+import STS.sir.stephan.project.ix.chapter4.CalculateGST;
+import STS.sir.stephan.project.ix.chapter4.CalculateDiscount;
+// Java Classes from the package : STS.sir.stephan.project.ix.chapter6
+import STS.sir.stephan.project.ix.chapter6.FindDiagonalOfSq;
+import STS.sir.stephan.project.ix.chapter6.FindSmallestNum;
+import STS.sir.stephan.project.ix.chapter6.InputAndFindSmallestNum;
+import STS.sir.stephan.project.ix.chapter6.FindCube;
+import STS.sir.stephan.project.ix.chapter6.FindValueOfExpression;
+import STS.sir.stephan.project.ix.chapter6.FindVelocity;
+// Java Classes from the package : STS.sir.stephan.project.ix.chapter7
+import STS.sir.stephan.project.ix.chapter7.SecondSmallestNum;
+import STS.sir.stephan.project.ix.chapter7.GradeTheStudent;
+import STS.sir.stephan.project.ix.chapter7.RectangleMenu;
+import STS.sir.stephan.project.ix.chapter7.ElectricityBill;
 
 public class Main2 
 {
     public static void main(String[] args) 
     {
-        System.out.println("---[ 01. Student Bio-Data ]---");
+        System.out.println("---[ 01. STS.sir.stephan.Student Bio-Data ]---");
         StudentBioData.displayStudentBioData("Sanjeev Stephan"); // Write your own name here
 
         System.out.println("---[ 02. Add Two Numbers ]---");
@@ -64,7 +64,7 @@ public class Main2
         System.out.println("---[ 12. Display Second Smallest Number ]---");
         SecondSmallestNum.find2ndSmallestNum();
 
-        System.out.println("---[ 13. Display Student Grades ]---");
+        System.out.println("---[ 13. Display STS.sir.stephan.Student Grades ]---");
         GradeTheStudent.displayGrades();
 
         System.out.println("---[ 14. Calculate Rectangle ]---");
